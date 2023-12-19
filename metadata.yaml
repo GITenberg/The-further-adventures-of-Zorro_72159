@@ -1,0 +1,40 @@
+_repo: The-further-adventures-of-Zorro_72159
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McCulley, Johnston
+    alias: Strong, Harrington
+    birthdate: 1883
+    deathdate: 1958
+    gutenberg_agent_id: '37927'
+    url: http://www.gutenberg.org/2009/agents/37927
+    wikipedia: http://en.wikipedia.org/wiki/Johnston_McCulley
+description: ''
+gutenberg_issued: '2023-11-18'
+identifiers:
+  gutenberg: '72159'
+language: en
+pgterms:marc904: https://archive.org/details/argosyallstorywe142newy (Parts 1, 2,
+  and 3), https://archive.org/details/argosyallstorywe143newy (Parts 4, 5, and 6)
+pgterms:marc905: 20230818143529mcculley
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Produced by Donald Cummings and Sue Clark (from images generously
+  made available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bThe Frank A. Munsey Company, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swordsmen -- Fiction'
+- !lcsh 'Rescues -- Fiction'
+- !lcsh 'Aristocracy (Social class) -- Fiction'
+- !lcsh 'Vigilantes -- Fiction'
+- !lcsh 'California -- History -- To 1846 -- Fiction'
+- !lcsh 'Spaniards -- California -- Fiction'
+- !lcsh 'Zorro (Fictitious character) -- Fiction'
+- !lcsh 'Action and adventure fiction'
+- !lcc 'PS'
+- GITenberg
+title: The further adventures of Zorro
+url: http://www.gutenberg.org/ebooks/72159
